@@ -1,0 +1,8 @@
+#.gitignore
+
+myvenvv/
+venv/
+
+.env
+
+.vscode/
